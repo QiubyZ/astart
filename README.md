@@ -8,4 +8,5 @@ I hope you all have installed this dependency because it is related to AcodeX-Te
   - @thraize/acode-cli
   - acodex-server
   - acode-lsp
-https://youtu.be/Rc-jvCWHG9E?si=lTc_08obhDNg9N5N
+
+Watch: https://youtu.be/Rc-jvCWHG9E?si=lTc_08obhDNg9N5N
